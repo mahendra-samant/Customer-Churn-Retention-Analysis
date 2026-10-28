@@ -150,7 +150,7 @@ Customer-Churn-Retention-Analysis/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Customer-Churn-Retention-Analysis.git
+git clone https://github.com/mahendra-samant/Customer-Churn-Retention-Analysis.git
 cd Customer-Churn-Retention-Analysis
 ```
 
